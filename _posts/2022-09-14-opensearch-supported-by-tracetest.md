@@ -99,4 +99,4 @@ Now it's possible to run the test and Tracetest will execute all assertions you 
 
 ### Conclusion
 
-#### TODO
+With this new integration, you will be able to start using Tracetest to help you testing your application, and identify gaps in your telemetry that would only be discovered when you try to debug a problem. If you have any issues or questions about Tracetest, reach out the team on their [Discord channel](https://discord.gg/5mZm6bMx) or open an issue on their [git repository](https://github.com/kubeshop/tracetest).
